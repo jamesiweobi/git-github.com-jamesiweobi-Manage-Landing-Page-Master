@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(/images/bg-tablet-pattern.svg) no-repeat center center/cover;
+  background-size: 53%;
+  font-family: "Be Vietnam", sans-serif;
+  color: gray;
+  }
+.navigation {
+  margin: 0 9rem;
+}
+.nav-div {
+  margin: 0 auto;
+  font-size: 0.9rem;
+}
+.heading {
+  text-align: left;
+  margin: 3rem 9rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+h4 {
+  font-size: 2rem;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+p {
+  font-size: 0.9rem;
+  font-weight: 50;
+}
+.features {
+  margin: 3rem 9rem;
+}
+.illustration {
+  width: 320px;
+  height: 320px;
+  float: right;
+}
+.btn {
+  border-radius: 12px;
+  background-color: hsl(12, 88%, 59%);
+  color: white;
+  border: 0ch;
+}
+.listnumber {
+  width: 50px;
+  height: 20px;
+  background-color: hsl(12, 88%, 59%);
+  border-radius: 12px;
+  text-align: center;
+  padding-top: 1px;
+  color: white;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 1em 1em;
+}
+
+.listitem {
+  list-style-type: none;
+}
+.testimonial {
+  width: 100%;
+}
+.container {
+  text-align: center;
+}
+.testicontent {
+  width: 30%;
+  height: 200px;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 30px 10px;
+}
+.testicontent h3 {
+  padding: 10px;
+}
+.testi-image {
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+  position: relative;
+  margin-top: -60px;
+}
+
+/* CTA */
+
+.cta {
+  background-color: hsl(12, 88%, 59%);
+  opacity: 0.8;
+  padding-top: 15px;
+  margin-top: 30px;
+}
+.cta-container {
+  margin: 3rem 9rem;
+  color: #ffffff;
+  text-align: left;
+}
+
+.cta-header {
+text-align: center;
+}
+.cta-btn {
+ margin-left: 375px;
+ margin-top: 10px;
+ height: 40px;
+ background-color: #ffffff;
+color: hsl(12, 88%, 59%);
+}
+
